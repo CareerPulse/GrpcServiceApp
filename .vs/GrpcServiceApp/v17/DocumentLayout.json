@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CareerPulse\\src\\GrpcServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|d:\\careerpulse\\src\\grpcserviceapp\\grpcserviceapp\\grpcserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|solutionrelative:grpcserviceapp\\grpcserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|d:\\careerpulse\\src\\grpcserviceapp\\grpcserviceapp\\services\\hhresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|solutionrelative:grpcserviceapp\\services\\hhresumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|d:\\careerpulse\\src\\grpcserviceapp\\grpcserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|solutionrelative:grpcserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|d:\\careerpulse\\src\\grpcserviceapp\\grpcserviceapp\\protos\\resume.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|solutionrelative:grpcserviceapp\\protos\\resume.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|d:\\careerpulse\\src\\grpcserviceapp\\grpcserviceapp\\services\\resumeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DD4455-BFFB-4895-9DE2-05B73AB1BC93}|GrpcServiceApp\\GrpcServiceApp.csproj|solutionrelative:grpcserviceapp\\services\\resumeserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HHResumeService.cs",
+              "DocumentMoniker": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Services\\HHResumeService.cs",
+              "RelativeDocumentMoniker": "GrpcServiceApp\\Services\\HHResumeService.cs",
+              "ToolTip": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Services\\HHResumeService.cs",
+              "RelativeToolTip": "GrpcServiceApp\\Services\\HHResumeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:02:36.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServiceApp\\Program.cs",
+              "ToolTip": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Program.cs",
+              "RelativeToolTip": "GrpcServiceApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:36:23.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResumeServiceImpl.cs",
+              "DocumentMoniker": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Services\\ResumeServiceImpl.cs",
+              "RelativeDocumentMoniker": "GrpcServiceApp\\Services\\ResumeServiceImpl.cs",
+              "ToolTip": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Services\\ResumeServiceImpl.cs",
+              "RelativeToolTip": "GrpcServiceApp\\Services\\ResumeServiceImpl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:16:22.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrpcServiceApp.csproj",
+              "DocumentMoniker": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\GrpcServiceApp.csproj",
+              "RelativeDocumentMoniker": "GrpcServiceApp\\GrpcServiceApp.csproj",
+              "ToolTip": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\GrpcServiceApp.csproj",
+              "RelativeToolTip": "GrpcServiceApp\\GrpcServiceApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T08:14:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "resume.proto",
+              "DocumentMoniker": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Protos\\resume.proto",
+              "RelativeDocumentMoniker": "GrpcServiceApp\\Protos\\resume.proto",
+              "ToolTip": "D:\\CareerPulse\\src\\GrpcServiceApp\\GrpcServiceApp\\Protos\\resume.proto",
+              "RelativeToolTip": "GrpcServiceApp\\Protos\\resume.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-02-03T08:13:28.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
