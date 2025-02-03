@@ -12,11 +12,11 @@ namespace GrpcServiceApp.Services
             HHResumeService service = new HHResumeService();
             try
             {
-                resumes = service.GetResumes(sort);
-                if(sort == "ASC")
-                    resumes.List.Order();
-                else if(sort == "DESC")
-                    resumes.List.OrderDescending(); 
+                resumes = service.GetResumes(name);
+                //if(sort == "ASC")
+                //    resumes.List.Order();
+                //else if(sort == "DESC")
+                //    resumes.List.OrderDescending(); 
                 await responseStream.WriteAsync(resumes);
             }
             catch (Exception ex)

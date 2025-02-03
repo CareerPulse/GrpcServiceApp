@@ -10,13 +10,13 @@ namespace GrpcServiceApp.Services
 {
     public class HHResumeService
     {
-        public ResumeListResponse GetResumes(string sort)
+        public ResumeListResponse GetResumes(string name)
         {
             using var httpClient = new HttpClient();
             ResumeListResponse resumes = new ResumeListResponse();
 
             httpClient.DefaultRequestHeaders.Add("User-Agent", "HH-User-Agent");
-            var url = "https://api.hh.ru/vacancies?per_page=100"; // Замените на актуальный URL API
+            var url = $"https://api.hh.ru/vacancies?per_page=100&title={name}";
 
             using var response = httpClient.GetStringAsync(url);
             var json = JObject.Parse(response.Result);
